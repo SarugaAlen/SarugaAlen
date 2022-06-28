@@ -12,10 +12,10 @@
 <thead>
 <tr>
 <th>
-<img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=aura"/>
 </th>
 <th>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icons=true&theme=aura"/>
 </th>
 </tr>
 </thead>
