@@ -8,14 +8,14 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height= 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
-<table width:100%>
+<table>
 <thead>
 <tr>
 <th>
-<img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=github_dark"/>
 </th>
 <th>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icons=true&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icons=true&theme=github_dark&langs_count=10&layout=compact"/>
 </th>
 </tr>
 </thead>
