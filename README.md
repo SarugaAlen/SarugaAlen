@@ -23,7 +23,7 @@
 </th>
 <th>&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icons=true&theme=github_dark&langs_count=10&layout=compact"/>&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icon=true&theme=github_dark&langs_count=10&layout=compact"/>&nbsp;&nbsp;
 </th>
 </tr>
 </thead>
