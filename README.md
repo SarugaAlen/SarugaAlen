@@ -3,6 +3,9 @@
  
 :computer: In my free time I like playing video games, playing basketball and I even read a book or two sometimes.
 
+![Metrics](https://your-file-hosting-service.com/path/to/metric.svg)
+
+
 name: Full-year calendar
 uses: lowlighter/metrics@latest
 with:
