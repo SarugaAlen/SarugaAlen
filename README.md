@@ -3,17 +3,11 @@
  
 :computer: In my free time I like playing video games, playing basketball and I even read a book or two sometimes.
 
-![Metrics](https://your-file-hosting-service.com/path/to/metric.svg)
-
-
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+<p align="center">
+  <a href="https://github.com/Quiirex">
+    <img src="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/main/github-metrics.svg" />
+  </a>
+</p>
 
 <h1>Technologies i use:</h1>
 
