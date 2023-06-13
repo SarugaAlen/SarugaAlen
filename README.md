@@ -4,7 +4,7 @@
 :computer: In my free time I like playing video games, playing basketball and I even read a book or two sometimes.
 
 <p align="center">
-  <a href="https://github.com/Quiirex">
+  <a href="https://github.com/SarugaAlen">
     <img src="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/main/github-metrics.svg" />
   </a>
 </p>
