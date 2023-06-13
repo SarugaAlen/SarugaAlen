@@ -38,20 +38,6 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;
 
 
-<table>
-<thead>
-<tr>
-<th>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=github_dark"/>&nbsp;&nbsp;
-</th>
-<th>&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarugaAlen&show_icons=true&theme=github_dark&langs_count=10&layout=compact"/>&nbsp;&nbsp;
-</th>
-</tr>
-</thead>
-</table>
-
 <h1 align="left">Connect with me</h1>
 <a align="center" href="https://www.linkedin.com/in/alen%C5%A1aruga/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
