@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h2>Technologies I use:</h2>
+<h2>Technologies I used:</h2>
 
 #### Front-end Development:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
