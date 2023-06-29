@@ -40,7 +40,7 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;
 
 
-<h1 align="left">Connect with me</h1>
+<h2 align="left">Connect with me</h2>
 <a align="center" href="https://www.linkedin.com/in/alen%C5%A1aruga/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>&nbsp;
