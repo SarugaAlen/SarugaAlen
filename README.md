@@ -1,5 +1,5 @@
 ### Hello my name is Alen and it's nice to meet you :smile:
-:man_student: I'm a 21 year old student from Slovenia at the Faculty of Electrical Engineering, Computer Science and Informatics at University of Maribor.
+:man_student: I'm a 22 year old student from Slovenia at the Faculty of Electrical Engineering, Computer Science and Informatics at University of Maribor.
  
 :computer: In my free time I like playing video games, playing basketball and I even read a book or two sometimes.
 
