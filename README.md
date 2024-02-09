@@ -1,7 +1,6 @@
-# Hello my name is Alen and it's nice to meet you :smile:
-:man_student: I'm a 22 year old student from Slovenia at the Faculty of Electrical Engineering, Computer Science and Informatics at University of Maribor.
+
+Hello my name is Alen and i'm a Software Engineer from Slovenia with a focus on Full Stack Development. I am currently pursuing a Bachelor's degree in Information and Communication Technologies. 
  
-:computer: In my free time I like playing video games, playing basketball and I even read a book or two sometimes.
 
 <p align="center">
   <a href="https://github.com/SarugaAlen">
