@@ -10,7 +10,7 @@ Hello my name is Alen and i'm a Software Engineer from Slovenia with a focus on 
 
 <h2>Technologies I used:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,jquery,bootstrap,js,ts,svelte,react,flutter,dart,python,fastapi,csharp,dotnet,nodejs,express,flask,mysql,mongodb,postgres,firebase,docker,git,gitlab&perline=6)](https://skillicons.dev)
 
 #### Front-end Development:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
