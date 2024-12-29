@@ -4,7 +4,7 @@ I'm a Software Engineer from Slovenia with a focus on Full Stack Development.
 
 ## About me
 <p>🎓 Bachelor’s degree in Informatics and Communication Technologies </p>
-<p>📚 Currently pursuing a Master’s degree in Information and Data Technologies</p>
+<p>📚 Currently pursuing a Master’s degree in Informatics and Data Technologies</p>
 <p>💡 Passionate about solving real-world problems through innovative software solutions</p>
 <p>🛠 Experienced in both front-end and back-end development, creating seamless and user-friendly applications</p>
 <p>🌍 Enthusiastic about working on scalable systems and leveraging cloud technologies for robust solutions</p>
