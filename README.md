@@ -1,6 +1,19 @@
+# Hello, I'm Alen 👋  
 
-Hello my name is Alen and i'm a Software Engineer from Slovenia with a focus on Full Stack Development. I am currently pursuing a Bachelor's degree in Information and Communication Technologies. 
- 
+I'm a Software Engineer from Slovenia with a focus on Full Stack Development.
+
+## About me
+<p>🎓 Bachelor’s degree in Information and Communication Technologies </p>
+<p>📚 Currently pursuing a Master’s degree in Information and Data Technologies</p>
+<p>💡 Passionate about solving real-world problems through innovative software solutions</p>
+<p>🛠 Experienced in both front-end and back-end development, creating seamless and user-friendly applications</p>
+<p>🌍 Enthusiastic about working on scalable systems and leveraging cloud technologies for robust solutions</p>
+<p>🎯 Continuously learning and staying updated with the latest trends in technology to deliver efficient and cutting-edge applications</p>
+
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,react,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker,git,gitlab&perline=22)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/SarugaAlen">
@@ -8,51 +21,7 @@ Hello my name is Alen and i'm a Software Engineer from Slovenia with a focus on 
   </a>
 </p>
 
-<h2>Technologies I used:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,jquery,bootstrap,js,ts,svelte,react,flutter,dart,python,fastapi,csharp,dotnet,nodejs,express,flask,mysql,mongodb,postgres,firebase,docker,git,gitlab&perline=15)](https://skillicons.dev)
-
-#### Front-end Development:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-
-
-#### Back-end Development:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />&nbsp;
-
-###
-
-#### Databases:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />&nbsp;
-
-
-
-#### Other Technologies:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;
-
-
-<h2 align="left">Connect with me</h2>
+## Connect with me
 <a align="center" href="https://www.linkedin.com/in/alen%C5%A1aruga/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
