@@ -13,7 +13,7 @@ I'm a Software Engineer from Slovenia with a focus on Full Stack Development.
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,react,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker,git,gitlab&perline=22)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,react,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker&perline=22)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/SarugaAlen">
