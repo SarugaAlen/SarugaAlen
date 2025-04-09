@@ -1,6 +1,12 @@
-# Hello, I'm Alen 👋  
+# 
 
-I'm a Software Engineer from Slovenia with a focus on Full Stack Development.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=23E6F7&center=true&vCenter=true&width=435&lines=Hello+,+I'm+Alen+👋" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <p>Software Engineer from Slovenia with a focus on Full Stack Development.</p>
+</div>
 
 ## About me
 <p>🎓 Bachelor’s degree in Informatics and Communication Technologies </p>
@@ -14,6 +20,7 @@ I'm a Software Engineer from Slovenia with a focus on Full Stack Development.
 ## Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,react,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker&perline=22)](https://skillicons.dev)
+
 
 <p align="center">
   <a href="https://github.com/SarugaAlen">
