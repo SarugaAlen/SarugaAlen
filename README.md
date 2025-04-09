@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=Alen%20Šaruga&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20&%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=250&section=header&text=Alen%20Šaruga&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Software%20Engineer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0AA1DD&center=true&vCenter=true&width=435&lines=Hello+,+I'm+Alen+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=0AA1DD&center=true&vCenter=true&width=500&lines=Hello,I'm+Alen+👋" alt="Typing SVG" />
 </div>
 
 <div align="center">
