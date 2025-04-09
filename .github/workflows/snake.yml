@@ -26,9 +26,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
-              dist/github-snake.svg?color_snake=#0AA1DD&color_dots=#ebedf0,#0AA1DD,#0AA1DD,#0AA1DD,#0AA1DD
-              dist/github-snake-dark.svg?palette=github-dark&color_snake=#0AA1DD&color_dots=#161b22,#0AA1DD,#0AA1DD,#0AA1DD,#0AA1DD
-              dist/ocean.gif?color_snake=#0AA1DD&color_dots=#161b22,#0AA1DD,#0AA1DD,#0AA1DD,#0AA1DD
+            dist/github-snake.svg?color_snake=#D100D1&color_dots=#ebedf0,#a3dffc,#75d3fa,#3fc8f8,#0AA1DD
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D100D1&color_dots=#161b22,#3fbae9,#2ca7d6,#1794c3,#0AA1DD
+            dist/ocean.gif?color_snake=#D100D1&color_dots=#161b22,#3fbae9,#2ca7d6,#1794c3,#0AA1DD
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
