@@ -37,23 +37,23 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=react&bg_color=0D1117&title_color=23E6F7&icon_color=23E6F7&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarugaAlen&layout=compact&theme=react&bg_color=0D1117&title_color=23E6F7&text_color=FFFFFF&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SarugaAlen&show_icons=true&theme=react&bg_color=0D1117&title_color=0AA1DD&icon_color=0AA1DD&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarugaAlen&layout=compact&theme=react&bg_color=0D1117&title_color=0AA1DD&text_color=FFFFFF&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Languages" height="170" />
 </div>
 
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarugaAlen&bg_color=0D1117&color=23E6F7&line=23E6F7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarugaAlen&bg_color=0D1117&color=0AA1DD&line=0AA1DD&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ## Featured Projects
 <p align="center">
   <a href="https://github.com/SarugaAlen/K-means_clustering_with_a_genetic_algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarugaAlen&repo=K-means_clustering_with_a_genetic_algorithm&theme=react&bg_color=0D1117&title_color=23E6F7&icon_color=23E6F7&text_color=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarugaAlen&repo=K-means_clustering_with_a_genetic_algorithm&theme=react&bg_color=0D1117&title_color=0AA1DD&icon_color=0AA1DD&text_color=FFFFFF&hide_border=true" />
   </a>
   <a href="https://github.com/SarugaAlen/air_quality_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarugaAlen&repo=air_quality_prediction&theme=react&bg_color=0D1117&title_color=23E6F7&icon_color=23E6F7&text_color=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarugaAlen&repo=air_quality_prediction&theme=react&bg_color=0D1117&title_color=0AA1DD&icon_color=0AA1DD&text_color=FFFFFF&hide_border=true" />
   </a>
 </p>
 
