@@ -65,9 +65,17 @@
   </picture>
 </div> -->
 
-<div align="center">
-  ![breakout-dark](https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-dark.svg)
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-light.svg" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0AA1DD&height=120&section=footer" width="100%" alt="Footer Banner" />
