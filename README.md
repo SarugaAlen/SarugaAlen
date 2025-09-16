@@ -57,12 +57,16 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/output/github-snake-dark.svg?palette=github-dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/output/github-snake.svg?color_snake=23E6F7&color_dots=#BAD6E6,#89CFF0,#23E6F7,#0AA1DD,#2155CD" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/output/github-snake.svg?color_snake=23E6F7&color_dots=#BAD6E6,#89CFF0,#23E6F7,#0AA1DD,#2155CD" />
   </picture>
+</div> -->
+
+<div align="center">
+  ![breakout-dark](https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-dark.svg)
 </div>
 
 <div align="center">
