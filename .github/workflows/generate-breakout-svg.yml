@@ -17,18 +17,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: generate SVG
+        id: generate-svg
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          paddle_color: "#0AA1DD" 
-          ball_color: "#2155CD"   
+          paddle_color: "#0AA1DD"
+          ball_color: "#2155CD"
           bricks_colors: "#BAD6E6,#89CFF0,#23E6F7,#0AA1DD,#2155CD"
 
-      - name: Move generated SVGs to temp
+      - name: Create SVG files
         run: |
-          mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+          mkdir -p images
+          echo "${{ steps.generate-svg.outputs.light_svg }}" | tee images/breakout-light.svg
+          echo "${{ steps.generate-svg.outputs.dark_svg }}" | tee images/breakout-dark.svg
 
       - name: Configure git
         run: |
@@ -39,8 +40,6 @@ jobs:
         run: |
           git checkout --orphan github-breakout
           git rm -rf .
-          mkdir images
-          mv /tmp/breakout-images/* images/
           git add images
           git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
           git push --force origin github-breakout
