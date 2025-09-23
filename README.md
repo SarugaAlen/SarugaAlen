@@ -68,13 +68,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-dark.svg"
+    srcset="https://cdn.jsdelivr.net/gh/SarugaAlen/SarugaAlen@github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-light.svg"
+    srcset="https://cdn.jsdelivr.net/gh/SarugaAlen/SarugaAlen@github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/SarugaAlen/SarugaAlen/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://cdn.jsdelivr.net/gh/SarugaAlen/SarugaAlen@github-breakout/images/breakout-light.svg" />
 </picture>
 
 <div align="center">
