@@ -32,7 +32,7 @@
 ## Technologies
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,react,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,tailwind,bootstrap,svelte,angular,react,electron,flutter,dart,python,fastapi,cs,dotnet,mysql,mongodb,postgres,firebase,docker&perline=11)](https://skillicons.dev)
 </div>
 
 ## GitHub Stats
